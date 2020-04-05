@@ -1,5 +1,5 @@
 ---
-path: /blog
+path: /content/posts
 date: 2020-04-05T23:51:11.405Z
 title: A trip to Mars
 ---
