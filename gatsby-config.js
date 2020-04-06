@@ -7,6 +7,7 @@ module.exports = {
         name: `markdown-pages`,
         path: `${__dirname}/blog`,
       },
+      git,
     },
     {
       resolve: `gatsby-theme-blog`,
