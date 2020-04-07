@@ -1,4 +1,5 @@
 ---
+path: /content/posts
 title: 'English: The Weird Parts #1'
 date: 2020-04-07T22:46:54.325Z
 tags:
