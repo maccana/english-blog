@@ -15,9 +15,9 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Better English Tips`,
+    author: `Mike McCann`,
+    description: `A place to improve your general English`,
     social: [
       {
         name: `twitter`,
