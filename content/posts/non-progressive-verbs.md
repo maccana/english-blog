@@ -5,4 +5,6 @@ tags:
   - verbs
 description: Post about non-progressive verbs
 ---
+![](/assets/ncv-1-845x321.jpg)
+
 Verbs can either be progressive, non-progressive, or both.The meaning will usually change between a verb that can be used progressively and non-progressively.
