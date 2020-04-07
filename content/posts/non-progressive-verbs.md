@@ -2,7 +2,7 @@
 title: Non-Progressive Verbs
 date: 2020-04-07T19:26:36.120Z
 tags:
-  - verbs
+  - verbs,non-continuous verbs,grammar
 description: Post about non-progressive verbs
 ---
 ![](/assets/ncv-1-845x321.jpg)
