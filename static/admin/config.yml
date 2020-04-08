@@ -3,11 +3,12 @@ backend:
   repo: maccana/english-blog
 
 media_folder: static/assets
+public_folder: /assets
 
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "blog"
+    folder: "/content/posts"
     create: true
     slug: "{{slug}}"
     editor:
