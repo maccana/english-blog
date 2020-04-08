@@ -1,5 +1,5 @@
 ---
-path: /content/posts
+path: /blog
 title: The next wave
 date: 2020-04-08T19:35:47.341Z
 description: Another post about english
