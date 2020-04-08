@@ -1,5 +1,5 @@
 ---
-path: /content/posts
+path: /blog
 title: A new page
 date: 2020-04-07T23:45:44.251Z
 tags:
