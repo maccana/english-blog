@@ -1,7 +1,8 @@
 ---
 path: content/posts
+title: Great Post (Edit)
 date: 2020-04-05T23:05:27.722Z
-title: Great Post
+description: An edit test for saving to new folder
 ---
 ## My Sub-Heading
 
