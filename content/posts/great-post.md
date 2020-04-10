@@ -18,3 +18,13 @@ For example, consider the following text which is an excerpt from the video belo
 ***In the plain of Yser, the choice is then made to open lock gates to flood the polders.With the German army stopped in their tracks,the frontline is etched out with the construction of 700 km of trenches,stretching from the North Sea to Switzerland.***
 
 <div class="iFrameWrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/SLj5r2nZHB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
+## Embedding an iFrame for YouTube video content
+
+This is the embed code for the video above.The code is simply placed,as is,into the Netlify CMS editor window.When the page is published it is treated just as HTML and the iFrame content is embedded into the page.
+
+```
+<div class="iFrameWrap"><iframe width="560" height="315" src="https://www.youtube.com/embed/SLj5r2nZHB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+```
