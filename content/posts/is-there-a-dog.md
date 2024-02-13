@@ -2,6 +2,6 @@
 path: /content/posts
 title: Is there a dog?
 date: 2020-04-08T23:15:01.780Z
-description: Dogs or cats
+description: Dogs, cats, or perhaps parrots?
 ---
 Some like cats.Some like dogs. I like parrots.
