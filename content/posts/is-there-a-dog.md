@@ -1,6 +1,6 @@
 ---
 path: /content/posts
-title: Is there a dog?
+title: Cats, dogs, or perhaps parrots?
 date: 2020-04-08T23:15:01.780Z
 description: Dogs, cats, or perhaps parrots?
 ---
