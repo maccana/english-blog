@@ -17,7 +17,7 @@ module.exports = {
   siteMetadata: {
     title: `Better English Tips`,
     author: `Mike McCann`,
-    description: `A place to improve your general English`,
+    description: `A fun, and funny, place to improve your English`,
     social: [
       {
         name: `twitter`,
